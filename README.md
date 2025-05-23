@@ -40,4 +40,4 @@ Design/Architecture Decisions
 
 Image reference
 - There is a Image.png file with the screenshot of the UI and its working interface for reference how it looks.
-
+- You can add, delete, edit and summarize todos.
