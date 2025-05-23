@@ -38,5 +38,6 @@ Design/Architecture Decisions
 - CORS enabled on backend for React local development.
 - Toast notifications in frontend for user feedback.
 
-
+Image reference
+- There is a Image.png file with the screenshot of the UI and its working interface for reference how it looks.
 
